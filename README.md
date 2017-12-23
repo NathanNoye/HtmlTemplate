@@ -1,0 +1,2 @@
+# HtmlTemplate
+Generic HTML template
